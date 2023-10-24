@@ -296,7 +296,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 184915062}
-  - component: {fileID: 184915063}
   m_Layer: 5
   m_Name: GameDialog
   m_TagString: Untagged
@@ -326,19 +325,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &184915063
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 184915061}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 462961a440cf4db4ab3603115e33b70e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _inputText: {fileID: 226630931}
 --- !u!1 &213877378
 GameObject:
   m_ObjectHideFlags: 0
@@ -959,7 +945,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6ba3876fb271ae4cba4695a693a5746, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _dronPrefab: {fileID: 3890830496792857829, guid: 9eb8a72fed8b8494283f5e0428cda087,
+  _dronPrefab: {fileID: 6689224455402960178, guid: e49d55f077a6c2248851ad823a8fc1af,
     type: 3}
   _prefabOffset: {x: 0, y: 0, z: 0}
 --- !u!1 &1167446570
